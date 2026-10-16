@@ -5,7 +5,7 @@ plugins {
 }
 
 android {
-    namespace "org.love2d.android"
+    namespace "co.lterm.sys"
     ndkVersion '27.3.13750724'
 
     defaultConfig {
